@@ -1,8 +1,8 @@
 {
-  "credit": "MR. Anonymous Omi",
-  "title": "Update Available",
-  "message": "New version available. Please update the app.",
-  "version": "3.6.2",
-  "force": true,
+  "credit": "MR. NoOB",
+  "title": "Notice",
+  "message": "Server maintenance tonight at 10 PM.",
+  "version": "3.5.6",
+  "force": false,
   "update_url": "https://example.com/app.apk"
 }
