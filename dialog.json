@@ -1,0 +1,8 @@
+{
+  "credit": "MR. Anonymous Omi",
+  "title": "Update Available",
+  "message": "New version available. Please update the app.",
+  "version": "3.6.2",
+  "force": true,
+  "update_url": "https://example.com/app.apk"
+}
