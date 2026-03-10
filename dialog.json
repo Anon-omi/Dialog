@@ -1,5 +1,10 @@
 {
   "credit": "MR. NoOB",
-  "title": "Test Dialog",
-  "message": "If you see this, JSON is working."
+  "show_dialog": false,
+  "title": "🚀 NEW UPDATE KE LIYE WAIT KRE",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "https://play.google.com/store/apps/details?id=com.nic.nmms"
 }
