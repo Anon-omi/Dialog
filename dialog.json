@@ -1,10 +1,5 @@
-[
 {
-  "credit": "MR. NOOB",
-  "title": "Notice",
-  "message": "Server maintenance tonight at 10 PM.",
-  "version": "3.5.6",
-  "force": false,
-  "update_url": "https://example.com/app.apk"
+  "credit": "MR. NoOB",
+  "title": "Test Dialog",
+  "message": "If you see this, JSON is working."
 }
-]
