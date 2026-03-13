@@ -3,14 +3,11 @@
  "title": "Notice",
  "message": "Server maintenance tonight",
 
- "toast": "Welcome to NMMS",
+ "toast": "Welcome user",
 
  "force_update": false,
- "update_url": "https://your-update-link.com",
 
  "maintenance": false,
 
- "disable_app": false,
-
- "expiry": "2026-12-31"
+ "disable_app": false
 }
