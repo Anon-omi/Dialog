@@ -5,9 +5,9 @@
 
  "toast": "Welcome user",
 
- "force_update": true,
+ "force_update": false,
 
- "maintenance": true,
+ "maintenance": false,
 
- "disable_app": true
+ "disable_app": false
 }
