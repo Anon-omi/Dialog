@@ -2,6 +2,15 @@
  "show_dialog": true,
  "title": "Notice",
  "message": "Server maintenance tonight",
- "toast": "Hello users",
- "version": 1
+
+ "toast": "Welcome to NMMS",
+
+ "force_update": false,
+ "update_url": "https://your-update-link.com",
+
+ "maintenance": false,
+
+ "disable_app": false,
+
+ "expiry": "2026-12-31"
 }
