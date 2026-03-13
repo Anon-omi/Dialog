@@ -1,5 +1,8 @@
 {
  "title": "Notice",
  "message": "Server maintenance tonight",
- "show_dialog": true
+ "show_dialog": true,
+ "toast": "Welcome to NMMS",
+ "disable_app": false,
+ "force_update": false
 }
