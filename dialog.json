@@ -1,13 +1,13 @@
 {
- "show_dialog": false,
+ "show_dialog": true,
  "title": "Notice",
  "message": "Server maintenance tonight",
 
  "toast": "Welcome user",
 
- "force_update": false,
+ "force_update": true,
 
- "maintenance": false,
+ "maintenance": true,
 
- "disable_app": false
+ "disable_app": true
 }
