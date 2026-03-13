@@ -1,8 +1,7 @@
 {
- "title": "Notice",
- "message": "Server aap sabhi ko app jaldi hi mil jaega",
  "show_dialog": true,
- "toast": "Welcome to NMMS",
- "disable_app": false,
- "force_update": false
+ "title": "Notice",
+ "message": "Server maintenance tonight",
+ "toast": "Hello users",
+ "version": 1
 }
