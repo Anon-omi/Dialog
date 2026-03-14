@@ -1,5 +1,5 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice bro",
  "message": "by om,  Server maintenance tonight",
  "toast": "Welcome user",
