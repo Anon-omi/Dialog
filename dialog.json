@@ -2,15 +2,8 @@
  "show_dialog": true,
  "title": "Notice",
  "message": "Server maintenance tonight",
-
  "toast": "Welcome user",
-
  "force_update": false,
- "update_url": "https://play.google.com/store/apps",
-
  "maintenance": false,
-
- "disable_app": false,
-
- "expiry": "2026-12-31"
+ "disable_app": false
 }
