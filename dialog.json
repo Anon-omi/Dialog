@@ -1,9 +1,9 @@
 {
- "show_dialog": true,
- "title": "Notice bro",
- "message": "by om,  Server maintenance tonight",
+ "show_dialog": false,
+ "title": "Notice",
+ "message": " Server maintenance tonight ",
  "toast": "Welcome Brother Now you are able to use this app",
- "force_update": true,
- "maintenance": true,
+ "force_update": false,
+ "maintenance": false,
  "disable_app": false
 }
