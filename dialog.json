@@ -1,7 +1,7 @@
 {
  "show_dialog": true,
- "title": "Notice",
- "message": "Server maintenance tonight",
+ "title": "Notice bro",
+ "message": "by om,  Server maintenance tonight",
  "toast": "Welcome user",
  "force_update": false,
  "maintenance": false,
