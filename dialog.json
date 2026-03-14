@@ -5,9 +5,7 @@
 
  "toast": "Welcome user",
 
- "maintenance": false,
  "force_update": false,
- "disable_app": false,
-
- "expiry": "2026-01-01"
+ "maintenance": false,
+ "disable_app": false
 }
