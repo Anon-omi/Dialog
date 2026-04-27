@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:- Mere Sabhi dosto aapki jankari ke liye mai apko bta du ki new 3.7.3 aa chuka hai ye update apko 12 PM tak mil jaega.  Anonymous Omi",
  "toast": "Welcome Brother Now you are able to use this app",
- "force_update": true,
- "maintenance": true,
+ "force_update": false,
+ "maintenance": false,
  "disable_app": false
 }
