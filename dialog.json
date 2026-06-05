@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:- Bhai agar apko application buy karna h to mere telegram pe contact karo kisi froud se app na le. Anonymous Omi",
  "toast": "Real developer se baat karo t.me/anonymous_omi",
- "force_update": true,
- "maintenance": true,
- "disable_app": true
+ "force_update": false,
+ "maintenance": false,
+ "disable_app": false
 }
