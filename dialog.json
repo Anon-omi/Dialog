@@ -1,9 +1,9 @@
 {
  "show_dialog": true,
  "title": "Notice",
- "message": " 1:- Mere Sabhi dosto aapki jankari ke liye mai apko bta du ki new 3.7.8 chal rha hai or G Ram G 1 july se start hoga. Anonymous Omi",
+ "message": " 1:- Bhai agar apko application buy karna h to mere telegram pe contact karo kisi froud se app na le. Anonymous Omi",
  "toast": "real developer se baat karo t.me/anonymous_omi",
- "force_update": true,
- "maintenance": true,
+ "force_update": false,
+ "maintenance": false,
  "disable_app": false
 }
