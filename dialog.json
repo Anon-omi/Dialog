@@ -5,5 +5,5 @@
  "toast": "App Update karlo t.me/anonymous_omi",
  "force_update": true,
  "maintenance": false,
- "disable_app": true
+ "disable_app": false
 }
