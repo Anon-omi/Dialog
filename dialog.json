@@ -1,9 +1,9 @@
 {
  "show_dialog": true,
  "title": "Notice",
- "message": " 1:- Bhai agar apko application buy karna h to mere telegram pe contact karo kisi froud se app na le. Anonymous Omi",
+ "message": " 1:- Bhai logo Apna app update karlo. mujhse contact karo😊. telegram-> t.me/anonymous_omi",
  "toast": "Real developer se baat karo t.me/anonymous_omi",
- "force_update": false,
- "maintenance": false,
+ "force_update": true,
+ "maintenance": true,
  "disable_app": false
 }
