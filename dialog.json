@@ -4,6 +4,6 @@
  "message": " 1:- Bhai logo Apna app update karlo. Old key dena or apna app le lena. mujhse contact karo😊. telegram-> t.me/anonymous_omi",
  "toast": "Apna App Update karlo t.me/anonymous_omi",
  "force_update": true,
- "maintenance": true,
- "disable_app": true
+ "maintenance": false,
+ "disable_app": false
 }
