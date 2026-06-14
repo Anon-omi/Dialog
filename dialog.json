@@ -1,9 +1,9 @@
 {
- "show_dialog": false,
+ "show_dialog": true,
  "title": "Notice",
- "message": " 1:- Bhai logo Apna app update karlo. Old key dena or apna app le lena. mujhse contact karo😊. telegram-> t.me/anonymous_omi",
+ "message": " 1:-Kya apne Anonymous Omi se hi app liya h ? agar kisi chor se app liya h to meri jimmedari nhi h apka nuksan bhi ho skta hai , mujhse contact karo😊. telegram-> t.me/anonymous_omi",
  "toast": "Real developer se baat karo t.me/anonymous_omi",
  "force_update": false,
- "maintenance": true,
- "disable_app": true
+ "maintenance": false,
+ "disable_app": false
 }
