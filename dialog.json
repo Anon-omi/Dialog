@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:- Narega Mobile Monitoring System me new update version 4.0.1 aa gaya hai jese hi update ban jaega apko mil jaega. Contact me on telegram-> t.me/anonymous_omi",
  "toast": "Real developer se contact karo t.me/anonymous_omi",
- "force_update": true,
+ "force_update": false,
  "maintenance": false,
  "disable_app": false
 }
