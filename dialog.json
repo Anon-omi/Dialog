@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:- Natoring System me new update version 4.0.1 aa gaya hai Contact me on telegram-> t.me/anonymous_omi",
  "toast": "Welcome bro 💐",
- "force_update": false,
- "maintenance": true,
+ "force_update": true,
+ "maintenance": false,
  "disable_app": false
 }
