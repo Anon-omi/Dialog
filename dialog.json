@@ -5,5 +5,5 @@
  "toast": "Welcome bro 💐",
  "force_update": false,
  "maintenance": false,
- "disable_app": false
+ "disable_app": true
 }
