@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:-👹 Bhaiyo Mera Application chori ho gaya agar apne Anonymous omi ke alawa kisi se liya hai to apka present nahi lagega. Contact me on telegram-> t.me/anonymous_omi",
  "toast": "✨Welcome back✨Your app, real developer t.me/Anonymous_omi",
- "force_update": false,
- "maintenance": false,
- "disable_app": false
+ "force_update": true,
+ "maintenance": true,
+ "disable_app": true
 }
