@@ -4,7 +4,7 @@
  "message": "1:-👹 Bhaiyo Mera Application working hai",
  "toast": false,
  "toast_message": "Real developer t.me/Anonymous_omi",
- "force_update": false,
- "maintenance": true,
+ "force_update": true,
+ "maintenance": false,
  "disable_app": false
 }
