@@ -1,5 +1,5 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": "1:-👹 Bhaiyo Mera Application working hai",
  "toast": false,
