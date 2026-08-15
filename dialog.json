@@ -5,6 +5,6 @@
  "toast": false,
  "toast_message": "Real developer t.me/Anonymous_omi",
  "force_update": false,
- "maintenance": false,
+ "maintenance": true,
  "disable_app": false
 }
