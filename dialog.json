@@ -1,8 +1,8 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": "1:-👹 Bhaiyo Mera Application working hai",
- "toast": true,
+ "toast": false,
  "toast_message": "Real developer t.me/Anonymous_omi",
  "force_update": false,
  "maintenance": false,
