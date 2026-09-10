@@ -1,7 +1,7 @@
 {
- "show_dialog": false,
+ "show_dialog": true,
  "title": "Notice",
- "message": "1:-👹Notice Subject - GRS par FIR par https://t.me/nmms_by_omi Ye link sabhi ko bhej de taki jankari sabhi tak pahuch sake 5:30 par live aunga or bahut hi important baat btaunga sabhi log join ho jana",
+ "message": "No1:- baar baar ye alert aa rha h to or app update karle,  No2:- Jaldi aap sabhi ka application band hone bala agar apka application band ho jaye toh ye telegram ko join or yahi se application update karle server_10 naame se ayega https://t.me/nmms_by_omi nahi to apne distributor se contact kare ",
  "toast": false,
  "toast_message": "Real developer t.me/Anonymous_omi",
  "force_update": false,
