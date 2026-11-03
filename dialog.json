@@ -2,7 +2,7 @@
  "show_dialog": false,
  "title": "Notice",
  "message": "No1:- baar baar ye alert aa rha h to or app update karle,  No2:- Jaldi aap sabhi ka application band hone bala agar apka application band ho jaye toh ye telegram ko join or yahi se application update karle server_10 naame se ayega https://t.me/nmms_by_omi nahi to apne distributor se contact kare ",
- "toast": true,
+ "toast": false,
  "toast_message": "Real developer t.me/Anonymous_omi",
  "force_update": false,
  "maintenance": false,
